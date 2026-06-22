@@ -1,4 +1,6 @@
-WebAssembly Developer Tools (Legacy)
+# WebAssembly Developer Tools (Legacy)
+
+[Live Demo](https://kennyfully1988.github.io/wasm_dev_tools_legacy/)
 
 ## Description / 描述
 This repository contains a self-contained WebAssembly developer utility designed primarily for converting image files into optimized text and data segments for WebAssembly (specifically for the Chicken Engine). It runs entirely in the browser with no external dependencies.
