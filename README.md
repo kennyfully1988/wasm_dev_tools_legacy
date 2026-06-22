@@ -1,14 +1,14 @@
-WebAssembly Developer Tools - README
+WebAssembly Developer Tools (Legacy)
 
-[Description / 描述]
+## Description / 描述
 This repository contains a self-contained WebAssembly developer utility designed primarily for converting image files into optimized text and data segments for WebAssembly (specifically for the Chicken Engine). It runs entirely in the browser with no external dependencies.
 本仓库包含一个自包含的 WebAssembly 开发者工具，主要设计用于将图像文件转换为 WebAssembly 优化文本和数据段（专为 Chicken Engine 引擎定制）。它完全在浏览器中运行，无需任何外部依赖。
 
-[Project Status / 项目状态]
+## Project Status / 项目状态
 Please note that the codebase is quite messy and unstructured. The developer has no plans to refactor or make any future updates to this code.
 请注意，本项目的代码库非常混乱且缺乏结构。开发者未来不打算重构或对其进行任何更新。
 
-[Features / 功能特性]
+## Features / 功能特性
 
     Convert images into format-compliant WebAssembly data string segments.
 
@@ -30,7 +30,7 @@ Please note that the codebase is quite messy and unstructured. The developer has
 
     便捷的一键复制与导出机制，轻松获取转换后的资源。
 
-[How to Use / 如何使用]
+## How to Use / 如何使用
 
     Open the wasm_dev_tools.html file in any modern web browser.
 
@@ -48,6 +48,6 @@ Please note that the codebase is quite messy and unstructured. The developer has
 
     在输出文本区域中查看生成的代码段，然后进行复制或导出。
 
-[License / 许可证]
+## License / 许可证
 This project is licensed under the terms of the MIT License.
 本项目采用 MIT 许可证进行授权。
