@@ -4,7 +4,7 @@
 
 ## Description / 描述
 This repository contains a self-contained WebAssembly developer utility designed primarily for converting image files into optimized text and data segments for WebAssembly (specifically for the Chicken Engine). It runs entirely in the browser with no external dependencies.
-本仓库包含一个自包含的 WebAssembly 开发者工具，主要设计用于将图像文件转换为 WebAssembly 优化文本和数据段（专为 Chicken Engine 引擎定制）。它完全在浏览器中运行，无需任何外部依赖。
+本仓库包含一个自包含的 WebAssembly 开发者工具，主要设计用于将图像文件转换为 WebAssembly 优化文本和数据段（专为小鸡引擎定制）。它完全在浏览器中运行，无需任何外部依赖。
 
 ## Project Status / 项目状态
 Please note that the codebase is quite messy and unstructured. The developer has no plans to refactor or make any future updates to this code.
